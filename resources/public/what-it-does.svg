@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <!-- README illustration: what the app does (any app -> Share to TV+ -> any TV).
+       drawn by hand rather than a screenshot; it has its own dark card so it reads on GitHub's
+       light and dark themes alike. colors are the logo's (resources/images/logo.svg) -->
+  <defs>
+    <radialGradient id="bg" cx="30%" cy="20%" r="95%">
+      <stop offset="0%" stop-color="#1F5E8F"/>
+      <stop offset="100%" stop-color="#0A2B4B"/>
+    </radialGradient>
+    <linearGradient id="thumb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4F8FC0"/>
+      <stop offset="100%" stop-color="#173E63"/>
+    </linearGradient>
+    <clipPath id="screen"><rect x="492" y="100" width="156" height="340" rx="16"/></clipPath>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="#FFC531"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="560" rx="28" fill="url(#bg)"/>
+
+  <!-- column headings -->
+  <g font-size="21" font-weight="700" fill="#F7F9FB" text-anchor="middle">
+    <text x="192" y="62">Share from any app</text>
+    <text x="570" y="62">Share to TV+ finds the video</text>
+    <text x="960" y="62">It plays on your TV</text>
+  </g>
+
+  <!-- sources -->
+  <g font-size="17" fill="#F7F9FB">
+    <g fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1.5">
+      <rect x="40" y="96" width="145" height="48" rx="24"/>
+      <rect x="200" y="96" width="145" height="48" rx="24"/>
+      <rect x="40" y="164" width="145" height="48" rx="24"/>
+      <rect x="200" y="164" width="145" height="48" rx="24"/>
+      <rect x="40" y="232" width="145" height="48" rx="24"/>
+      <rect x="200" y="232" width="145" height="48" rx="24"/>
+      <rect x="40" y="300" width="145" height="48" rx="24"/>
+      <rect x="200" y="300" width="145" height="48" rx="24"/>
+      <rect x="40" y="368" width="145" height="48" rx="24"/>
+      <rect x="200" y="368" width="145" height="48" rx="24"/>
+    </g>
+    <circle cx="64" cy="120" r="7" fill="#FF3B3B"/><text x="80" y="126">YouTube</text>
+    <circle cx="224" cy="120" r="7" fill="#E50914"/><text x="240" y="126">Netflix</text>
+    <circle cx="64" cy="188" r="7" fill="#25F4EE"/><text x="80" y="194">TikTok</text>
+    <circle cx="224" cy="188" r="7" fill="#E1306C"/><text x="240" y="194">Instagram</text>
+    <circle cx="64" cy="256" r="7" fill="#F7F9FB"/><text x="80" y="262">X</text>
+    <circle cx="224" cy="256" r="7" fill="#FF4500"/><text x="240" y="262">Reddit</text>
+    <circle cx="64" cy="324" r="7" fill="#1877F2"/><text x="80" y="330">Facebook</text>
+    <circle cx="224" cy="324" r="7" fill="#FFC531"/><text x="240" y="330">Web pages</text>
+    <circle cx="64" cy="392" r="7" fill="#34C759"/><text x="80" y="398">Photos</text>
+    <circle cx="224" cy="392" r="7" fill="#9AA5B1"/><text x="240" y="398">Files</text>
+  </g>
+  <text x="192" y="452" font-size="15" fill="#B8CCE0" text-anchor="middle">…and most other sites</text>
+
+  <!-- brace + arrow into the phone -->
+  <path d="M 358 104 Q 372 104 372 118 L 372 242 Q 372 256 386 256 Q 372 256 372 270 L 372 394 Q 372 408 358 408"
+        fill="none" stroke="#FFC531" stroke-width="3" stroke-linecap="round"/>
+  <line x1="396" y1="256" x2="466" y2="256" stroke="#FFC531" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+  <!-- phone -->
+  <rect x="480" y="80" width="180" height="380" rx="28" fill="#0B1E33" stroke="#3E5A78" stroke-width="3"/>
+  <rect x="492" y="100" width="156" height="340" rx="16" fill="#F7F9FB"/>
+  <g clip-path="url(#screen)">
+    <rect x="492" y="100" width="156" height="38" fill="#2E7CB4"/>
+    <text x="570" y="125" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">Share to TV+</text>
+
+    <text x="504" y="158" font-size="11" font-weight="700" fill="#5B6B7C">Ready to Cast</text>
+    <rect x="504" y="166" width="132" height="74" rx="8" fill="url(#thumb)"/>
+    <path d="M 562 190 L 562 216 L 584 203 Z" fill="#FFC531"/>
+    <rect x="510" y="226" width="30" height="11" rx="3" fill="#000000" fill-opacity="0.6"/>
+    <text x="525" y="234.5" font-size="8" fill="#FFFFFF" text-anchor="middle">0:42</text>
+    <rect x="600" y="226" width="30" height="11" rx="3" fill="#000000" fill-opacity="0.6"/>
+    <text x="615" y="234.5" font-size="8" fill="#FFFFFF" text-anchor="middle">1080p</text>
+
+    <text x="504" y="262" font-size="11" font-weight="700" fill="#5B6B7C">Available Devices</text>
+    <rect x="500" y="270" width="140" height="34" rx="8" fill="#DCEAF7"/>
+    <g fill="none" stroke="#2E7CB4" stroke-width="2">
+      <rect x="508" y="279" width="20" height="13" rx="2"/>
+      <rect x="508" y="317" width="20" height="13" rx="2"/>
+      <rect x="508" y="355" width="20" height="13" rx="2"/>
+    </g>
+    <g font-size="10.5" font-weight="700" fill="#1B2B3A">
+      <text x="536" y="285">Living Room</text>
+      <text x="536" y="323">Bedroom</text>
+      <text x="536" y="361">Kitchen</text>
+    </g>
+    <g font-size="8.5" fill="#6B7B8C">
+      <text x="536" y="297">Fire TV</text>
+      <text x="536" y="335">Google TV</text>
+      <text x="536" y="373">Chromecast</text>
+    </g>
+    <circle cx="626" cy="287" r="12" fill="none" stroke="#FFC531" stroke-width="2" stroke-opacity="0.8"/>
+    <circle cx="626" cy="287" r="6.5" fill="#FFC531" fill-opacity="0.8"/>
+
+    <rect x="500" y="396" width="140" height="36" rx="8" fill="#0A2B4B"/>
+    <text x="508" y="411" font-size="8.5" fill="#FFFFFF">Playing on Living Room</text>
+    <rect x="508" y="419" width="100" height="3" rx="1.5" fill="#FFFFFF" fill-opacity="0.3"/>
+    <rect x="508" y="419" width="40" height="3" rx="1.5" fill="#FFC531"/>
+    <rect x="620" y="406" width="3.5" height="14" rx="1" fill="#FFFFFF"/>
+    <rect x="627" y="406" width="3.5" height="14" rx="1" fill="#FFFFFF"/>
+  </g>
+  <rect x="552" y="87" width="36" height="5" rx="2.5" fill="#2A3F55"/>
+
+  <!-- arrow out to the TVs -->
+  <line x1="674" y1="256" x2="732" y2="256" stroke="#FFC531" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 744 128 L 744 408" fill="none" stroke="#FFC531" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 732 256 L 744 256" fill="none" stroke="#FFC531" stroke-width="4"/>
+  <g stroke="#FFC531" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow)">
+    <line x1="744" y1="128" x2="776" y2="128"/>
+    <line x1="744" y1="221" x2="776" y2="221"/>
+    <line x1="744" y1="314" x2="776" y2="314"/>
+    <line x1="744" y1="408" x2="776" y2="408"/>
+  </g>
+
+  <!-- TVs -->
+  <g fill="#0F3558" stroke="#F7F9FB" stroke-width="4">
+    <rect x="790" y="96" width="110" height="64" rx="8"/>
+    <rect x="790" y="189" width="110" height="64" rx="8"/>
+    <rect x="790" y="282" width="110" height="64" rx="8"/>
+    <rect x="790" y="376" width="110" height="64" rx="8"/>
+  </g>
+  <g fill="#F7F9FB">
+    <rect x="828" y="164" width="34" height="6" rx="3"/>
+    <rect x="828" y="257" width="34" height="6" rx="3"/>
+    <rect x="828" y="350" width="34" height="6" rx="3"/>
+    <rect x="828" y="444" width="34" height="6" rx="3"/>
+  </g>
+  <g fill="#FFC531">
+    <path d="M 838 116 L 838 140 L 858 128 Z"/>
+    <path d="M 838 209 L 838 233 L 858 221 Z"/>
+    <path d="M 838 302 L 838 326 L 858 314 Z"/>
+    <path d="M 838 396 L 838 420 L 858 408 Z"/>
+  </g>
+  <g font-size="19" font-weight="700" fill="#F7F9FB">
+    <text x="920" y="124">Fire TV</text>
+    <text x="920" y="217">Google TV &amp; Android TV</text>
+    <text x="920" y="310">Chromecast</text>
+    <text x="920" y="404">Smart TVs</text>
+  </g>
+  <g font-size="15" fill="#B8CCE0">
+    <text x="920" y="146">with the Share to TV+ app</text>
+    <text x="920" y="239">with the Share to TV+ app</text>
+    <text x="920" y="332">and TVs with Cast built in</text>
+    <text x="920" y="426">YouTube videos</text>
+  </g>
+
+  <text x="600" y="515" font-size="17" fill="#B8CCE0" text-anchor="middle">The TV plays the video straight from the site, so your phone is free once it's sent</text>
+</svg>
