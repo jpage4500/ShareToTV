@@ -106,7 +106,9 @@ Or, just download and install the same apk as the phone: [**ShareToTV.apk**](htt
 - Optionally install the Chrome extension (coming soon) which will send the current link to the app, saving a step
 
 <a name="install-coming-soon"></a>
+
 <h3>Coming soon</h3>
+
 - **Google Play** (phones and Google TV / Android TV)
 - **Amazon Appstore** (Fire TV)
 - **App Store** (iPhone and iPad)
