@@ -60,6 +60,8 @@ I wanted to find an easier way. I know there are other similar apps like this on
 - **Works from almost any app**: anything with a **Share** button
 - **Finds the video for you**: most apps share a link to a *page*, not the video itself. Share to TV+
   opens the page and pulls the video out
+- **Opens YouTube** links in your favorite YouTube app (supports SmartTube if installed)
+- **Opens Netflix** and several other DRM links (Prime Video, Disney+, etc) in the official app if installed 
 - **Plays on the TVs you already have**: Fire TV, Google TV, Android TV, Chromecast, and smart TVs
   with YouTube
 - **Phone not needed once shared**: the TV plays the video straight from the site. Once it's sent, you can
@@ -113,7 +115,11 @@ Or, just download and install the same apk as the phone: [**ShareToTV.apk**](htt
 - **Amazon Appstore** (Fire TV)
 - **App Store** (iPhone and iPad)
 - **Apple TV** support
+- **Chrome Browser Extension**
 
+Right now it's all free (no ads either). The plan it to get it into the Google Play Store, Amazon App Store and Apple App Store, but I imagine it's going to take them a while to approve an app like this. I'll likely add a small one time in-app purchase but if you're able to help me test and give feedback I'm open to giving out free codes for the store versions once they're ready. There's an internal test track on Google Play Store too which if you DM me your email address I'll add you. Once you're on the list you can access it [here](https://play.google.com/apps/internaltest/4700955142052814381)
+
+It's still in beta - there's a million sites that host video and most of them don't make it easy to figure out the stream so it can be played by another player. I've only tested a few of them so there's going to be lots of fixes needed early on. What I can promise is that I'll test the URL's that get reported to me and if it's possible to support I'll support them.
 The store versions may come with a small one-time purchase. The GitHub version will stay free for now. Donations are  much appreciated - [PayPal](https://www.paypal.com/paypalme/jpage4500) or [Venmo](https://www.venmo.com/u/jpage4500)
 
 ---
