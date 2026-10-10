@@ -88,11 +88,22 @@ updates itself: you'll be told in the app when there's a new version.
 <a name="install-android"></a>
 <h3>Android phone / tablet</h3>
 
-- Download [**ShareToTV.apk**](https://github.com/jpage4500/ShareToTV/releases/download/android/ShareToTV.apk)
+- Install it from [**Google Play**](https://play.google.com/store/apps/details?id=com.jpage4500.cast)
+- Or download [**ShareToTV.apk**](https://github.com/jpage4500/ShareToTV/releases/download/android/ShareToTV.apk)
   on the phone and open it. Android asks once to allow installs from your browser
+
+<a name="install-ios"></a>
+<h3>iPhone / iPad</h3>
+
+- Install it from the [**App Store**](https://apps.apple.com/us/app/share-to-tv/id6817912677)
 
 <a name="install-tv"></a>
 <h3>Fire TV / Google TV / Android TV</h3>
+
+Google TV / Android TV: search for **Share to TV+** in Google Play on the TV, or install it from its
+[**Google Play**](https://play.google.com/store/apps/details?id=com.jpage4500.cast) page.
+
+Fire TV, or to sideload it:
 
 1. Install the **Downloader** app on the TV (search for it in the TV's app store)
 2. Fire TV only: let Downloader install apps in **Settings ▸ My Fire TV ▸ Developer Options**
@@ -105,17 +116,14 @@ Or, just download and install the same apk as the phone: [**ShareToTV.apk**](htt
 
 - [GitHub release page](https://github.com/jpage4500/ShareToTV/releases/latest): pick the installer
   for your computer. The desktop app updates itself when a new version comes out
-- Optionally install the Chrome extension (coming soon) which will send the current link to the app, saving a step
+- Optionally install the [Chrome extension](https://chromewebstore.google.com/detail/share-to-tv+/oppohchkdjelgclgpgianhphahjhlalk?authuser=1&hl=en) which will send the current link to the app, saving a step
 
 <a name="install-coming-soon"></a>
 
 <h3>Coming soon</h3>
 
-- **Google Play** (phones and Google TV / Android TV)
 - **Amazon Appstore** (Fire TV)
-- **App Store** (iPhone and iPad)
 - **Apple TV** support
-- **Chrome Browser Extension**
 
 Right now it's all free (no ads either). The plan it to get it into the Google Play Store, Amazon App Store and Apple App Store, but I imagine it's going to take them a while to approve an app like this. I'll likely add a small one time in-app purchase but if you're able to help me test and give feedback I'm open to giving out free codes for the store versions once they're ready. There's an internal test track on Google Play Store too which if you DM me your email address I'll add you. Once you're on the list you can access it [here](https://play.google.com/apps/internaltest/4700955142052814381)
 
