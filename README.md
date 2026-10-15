@@ -9,6 +9,7 @@
 <!-- shields.io has no Android TV, Fire TV or Windows logo any more: Android TV uses Google TV's, and
      Fire TV + Windows carry their own (a TV / four panes, base64 SVG in the logo= param) -->
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#install-android)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](#install-ios)
 [![Android TV](https://img.shields.io/badge/Android%20TV-3DDC84?style=for-the-badge&logo=googletv&logoColor=white)](#install-tv)
 [![Fire TV](https://img.shields.io/badge/Fire%20TV-FF9900?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTMgM2gxOGEyIDIgMCAwIDEgMiAydjExYTIgMiAwIDAgMS0yIDJIM2EyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMnptMCAydjExaDE4VjV6TTcgMjBoMTB2Mkg3eiIvPjwvc3ZnPg==)](#install-tv)
 [![Chromecast](https://img.shields.io/badge/Chromecast-4285F4?style=for-the-badge&logo=googlecast&logoColor=white)](#install)
@@ -116,7 +117,7 @@ Or, just download and install the same apk as the phone: [**ShareToTV.apk**](htt
 
 - [GitHub release page](https://github.com/jpage4500/ShareToTV/releases/latest): pick the installer
   for your computer. The desktop app updates itself when a new version comes out
-- Optionally install the [Chrome extension](https://chromewebstore.google.com/detail/share-to-tv+/oppohchkdjelgclgpgianhphahjhlalk?authuser=1&hl=en) which will send the current link to the app, saving a step
+- Optionally install the [Chrome extension](https://chromewebstore.google.com/detail/share-to-tv+/oppohchkdjelgclgpgianhphahjhlalk) which will send the current link to the app, saving a step
 
 <a name="install-coming-soon"></a>
 

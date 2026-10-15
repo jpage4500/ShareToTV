@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="meadow" tvg-chno="101" group-title="Films",Meadow Cinema
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="lantern" tvg-chno="102" group-title="Films",Lantern Films
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="shortreel" tvg-chno="103" group-title="Films",Short Reel
+https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4
+#EXTINF:-1 tvg-id="midnight" tvg-chno="104" group-title="Films",Midnight Matinee
+https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8
+#EXTINF:-1 tvg-id="tidewater" tvg-chno="201" group-title="Nature",Tidewater
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="highridge" tvg-chno="202" group-title="Nature",High Ridge
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="fernandfeather" tvg-chno="203" group-title="Nature",Fern & Feather
+https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8
+#EXTINF:-1 tvg-id="slowrivers" tvg-chno="204" group-title="Nature",Slow Rivers
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="farorbit" tvg-chno="301" group-title="Space",Far Orbit
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="nightsky" tvg-chno="302" group-title="Space",Night Sky Live
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="launchwindow" tvg-chno="303" group-title="Space",Launch Window
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="burrow" tvg-chno="401" group-title="Kids",Burrow Kids
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="paperplane" tvg-chno="402" group-title="Kids",Paper Plane
+https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8
+#EXTINF:-1 tvg-id="tumble" tvg-chno="403" group-title="Kids",Tumble Toons
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="porchlight" tvg-chno="501" group-title="Music",Porchlight Sessions
+https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4
+#EXTINF:-1 tvg-id="bluehour" tvg-chno="502" group-title="Music",Blue Hour Jazz
+https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4
+#EXTINF:-1 tvg-id="strings" tvg-chno="503" group-title="Music",Strings & Keys
+https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4
+#EXTINF:-1 tvg-id="backroads" tvg-chno="601" group-title="Travel",Backroads
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="harbor" tvg-chno="602" group-title="Travel",Harbor Towns
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="railwindow" tvg-chno="603" group-title="Travel",Rail Window
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
